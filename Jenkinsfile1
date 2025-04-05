@@ -4,7 +4,7 @@ pipeline {
         AZURE_CREDENTIALS_ID = 'azure-service-principal'
         RESOURCE_GROUP = 'rg-jenkins'
         APP_SERVICE_NAME = 'webapijenkins98872'
-        TERRAFORM_PATH = '""C:\Users\HP\Desktop\something\Capgemini\Cap-Training\terraform.exe""'
+        TERRAFORM_PATH = '""C:\\Users\\HP\\Desktop\\something\\Capgemini\\Cap-Training\\terraform.exe""'
     }
 
     stages {
